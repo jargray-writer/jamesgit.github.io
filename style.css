@@ -1,7 +1,9 @@
 h1 {
-text-align: center;
+  text-align: center;
 }
 
-a {
-text-align: center;
+.IMG_1723 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
