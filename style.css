@@ -3,7 +3,8 @@ h1 {
 }
 
 a {
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
   width: 50%;
   display: block;
 }
